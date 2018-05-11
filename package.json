@@ -1,5 +1,5 @@
 {
-  "name": "@xybersolve/xs-dates",
+  "name": "xs-dates",
   "version": "0.0.4",
   "description": "Date routine for node",
   "main": "index.js",
